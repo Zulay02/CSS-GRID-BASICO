@@ -3,7 +3,7 @@
     background-color: #afe497;
     display: grid;
     grid-template-columns: 150px 150px 150px 150px;
-    grid-template-rows: 150px 150px 150px 150px 159px 150px 150px ;
+    grid-template-rows: 150px 150px 150px 150px 150px 150px 150px ;
     place-content: center;
    
 }
@@ -48,14 +48,14 @@
     border: 5px solid #afe497;
     background-color: darkseagreen;
     grid-column-start: 4;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
 .item-7 {
     border: 5px solid #afe497;
     background-color: chartreuse;
     grid-column-start: 1;
-    grid-column-end: 1;
+    grid-column-end: 2;
 }
 
 .item-8 {
@@ -70,7 +70,7 @@
     border: 5px solid #afe497;
     background-color: cyan;
     grid-column-start: 4;
-    grid-column-end: 4;
+    grid-column-end: 5;
 }
 
 .item-10 {

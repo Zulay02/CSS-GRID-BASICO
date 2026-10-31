@@ -17,7 +17,7 @@
     border: 5px solid greenyellow;
     background-color: greenyellow;
     grid-column-start: 1;
-    grid-column-end: 1;
+    grid-column-end: 2;
 }
 .item-2 {
     border: 5px solid #8bf16b;
@@ -43,19 +43,19 @@
     border: 5px solid greenyellow;
     background-color: greenyellow;
     grid-column-start: 1;
-    grid-column-end: 1;
+    grid-column-end: 2;
 }
 
 .item-6 {
     border: 5px solid #8bf16b;
     background-color: #8bf16b;
     grid-column-start: 2;
-    grid-column-end: 2;
+    grid-column-end: 3;
 }
 
 .item-7 {
     border: 5px solid rgb(68, 148, 68); 
     background-color: rgb(68, 148, 68);
     grid-column-start: 3;
-    grid-column-end: 3;
+    grid-column-end: 4;
 }
